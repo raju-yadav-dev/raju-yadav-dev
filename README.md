@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 Hi, I'm Raju Yadav
 
-<!--
-**raju-yadav-dev/raju-yadav-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Java Developer & Problem Solver  
+📘 Practicing LeetCode and building strong fundamentals  
+🎓 BCA Student
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I'm Working On
+- Solving LeetCode problems daily
+- Improving Java fundamentals
+- Learning problem-solving patterns
+
+---
+
+### 🛠 Tech Stack
+- Java
+- Git & GitHub
+- VS Code
+
+---
+
+### 📊 GitHub Stats
+(Coming soon 🚀)
