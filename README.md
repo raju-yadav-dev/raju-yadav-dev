@@ -15,6 +15,7 @@
 
 ### 🛠 Tech Stack
 - Java
+- C
 - Git & GitHub
 - VS Code
 
