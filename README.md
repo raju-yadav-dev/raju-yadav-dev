@@ -11,7 +11,7 @@
 - Improving Java fundamentals
 - Learning problem-solving patterns
 
----
+--- 
 
 ### 🛠 Tech Stack
 - Java
