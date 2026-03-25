@@ -22,7 +22,7 @@
 ---
 
 ### 📊 GitHub Stats
-(Coming soon 🚀)
+![GitHub Streak](https://streak-stats.demolab.com/?user=raju-yadav-dev&theme=radical)
 
 
 ### 🌐 Socials:
