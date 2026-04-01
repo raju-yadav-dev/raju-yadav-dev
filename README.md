@@ -22,7 +22,7 @@
 ---
 
 ### 📊 GitHub Stats
-https://raw.githubusercontent.com/raju-yadav-dev/github-stats-transparent/output/generated/languages.svg
+![](https://raw.githubusercontent.com/raju-yadav-dev/github-stats-transparent/output/generated/languages.svg)
 
 
 ### 🌐 Socials:
