@@ -22,7 +22,7 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=raju-yadav-dev&theme=merko)
+https://raw.githubusercontent.com/raju-yadav-dev/github-stats-transparent/output/generated/languages.svg
 
 
 ### 🌐 Socials:
