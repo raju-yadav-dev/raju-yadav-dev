@@ -24,8 +24,6 @@
 ### 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raju-yadav-dev&layout=compact&theme=tokyonight)
 
-![Top Languages](https://gh-stats-gen.vercel.app/api/top-langs?username=raju-yadav-dev)
-
 
 
 
