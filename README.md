@@ -71,10 +71,10 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raju-yadav-dev&theme=tokyonight" width="100%"/>
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raju-yadav-dev&theme=tokyonight" width="100%"/>
     </td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raju-yadav-dev&theme=tokyonight" width="100%"/>
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raju-yadav-dev&theme=tokyonight" width="100%"/>
     </td>
   </tr>
 </table>
