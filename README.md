@@ -59,9 +59,7 @@
 
 ## 📈 LeetCode Journey
 
-<p align="center">
-  <img width="60%" src="https://leetcard.jacoblin.cool/raju-yadav-dev?theme=dark&font=Poppins&ext=heatmap&border=0&radius=20"/>
-</p>
+<img width="60%" src="https://leetcard.jacoblin.cool/raju-yadav-dev?theme=dark&font=Poppins&ext=heatmap&border=0&radius=20"/>
 
 ---
 
