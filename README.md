@@ -141,6 +141,10 @@
             <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
         </a>
     </td>
+    <td align="center">
+        <a href="https://www.facebook.com/Raju.yadav.4556">
+          <img src="https://img.shields.io/badge/Facebook-2EC866?style=for-the-badge&logo=facebook&logoColor=white"/>
+        </a>  
   </tr>
 </table>
 
