@@ -153,8 +153,7 @@
 
 
 <!-- Random Dev Quote -->
-<img width="100%" src="https://img.shields.io/badge/Anyone_can_write_code_that_a_computer_can_understand_but_a_good_programmers_write_code_that_humans_can_understand-olive
-"/>
+<img width="100%" src="https://img.shields.io/badge/Anyone_can_write_code_that_a_computer_can_understand_but_a_good_programmers_write_code_that_humans_can_understand-olive"/>
 
 ---
 
